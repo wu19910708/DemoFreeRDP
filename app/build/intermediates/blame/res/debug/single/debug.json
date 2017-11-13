@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_specialkeys_keyboard.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\specialkeys_keyboard.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_session_list_item.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\session_list_item.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_session.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\session.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_numpad_keyboard.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\numpad_keyboard.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_about.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_about.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_launcher_freerdp.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_launcher_freerdp.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_button_add.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_button_add.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_button_cancel.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\icon_button_cancel.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_preferences.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_preferences.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_right_arrow.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_right_arrow.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_star_on.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_star_on.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_about.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_about.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_ext_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_ext_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_feedback_return.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_touch_pointer.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_touch_pointer.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_credentials.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\credentials.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sym_keyboard_feedback_delete.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\sym_keyboard_feedback_delete.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sym_keyboard_return.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_help.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_help.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_left_arrow_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_left_arrow_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_lclick.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_lclick.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_preferences.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_preferences.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_ext_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_ext_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_star_off.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_star_off.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_winkey_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_winkey_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_help.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_help.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_performance_flags_3g.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\performance_flags_3g.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_button_add.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_button_add.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_edittext_clear.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_edittext_clear.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_menu_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_menu_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_rclick.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_rclick.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_header.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_gateway_settings.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\gateway_settings.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_extkeyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_extkeyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_performance_flags.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\performance_flags.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_edittext_search.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_edittext_search.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_application_settings.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\application_settings.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_about.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_about.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_button_add.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_button_add.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_plate.9.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\search_plate.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_feedback_delete.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_feedback_delete.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_disconnect.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_disconnect.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_settings.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_settings.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_launcher_freerdp.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\icon_launcher_freerdp.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_plate.9.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\search_plate.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_preference.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\button_preference.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_settings.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_settings.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_down_arrow.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_down_arrow.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_super_bar.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\super_bar.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_modifiers_keyboard.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\modifiers_keyboard.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\menu_session_menu.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\menu\\session_menu.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_up_arrow.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_up_arrow.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_arrows.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_arrows.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_star_on.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_star_on.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_winkey.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_winkey.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_reset.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_reset.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_right_arrow_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_right_arrow_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_down_arrow_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_down_arrow_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_sys_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_sys_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_feedback_return.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sym_keyboard_feedback_return.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_edittext_search.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_edittext_search.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_sys_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_sys_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_plate.9.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\search_plate.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_feedback_delete.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_feedback_delete.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookmark_list_item.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\bookmark_list_item.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_settings.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_settings.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_add.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_add.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_cursor_keyboard.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\cursor_keyboard.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_preferences.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_preferences.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_add.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_add.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_bookmark_settings.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\bookmark_settings.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_screen_settings_3g.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\screen_settings_3g.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_credentials_settings.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\credentials_settings.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_exit.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_exit.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_edittext_clear.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_edittext_clear.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_disconnect.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_disconnect.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_edittext_search.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_edittext_search.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_close.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_close.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_sys_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_sys_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\menu_home_menu.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\menu\\home_menu.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_up_arrow_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_up_arrow_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_advanced_settings.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\advanced_settings.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\menu_bookmark_context_menu.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\menu\\bookmark_context_menu.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_left_arrow.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_left_arrow.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_menu.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_menu.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_active.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_active.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_disconnect.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_disconnect.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_default.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_default.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_return.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_keyboard_arrows_black.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\sym_keyboard_arrows_black.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_dont_show_again_dialog.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\layout\\dont_show_again_dialog.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_touch_pointer.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_touch_pointer.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_add.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_add.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_separator_background.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\separator_background.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e6e72bd48b6c5d766fa36d9dc89e9f86\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_return.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_launcher_freerdp.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_launcher_freerdp.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_touch_pointer.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_touch_pointer.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_exit.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_exit.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_star_off.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_star_off.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_menu_ext_keyboard.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_ext_keyboard.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touch_pointer_scroll.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable\\touch_pointer_scroll.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_star_off.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_star_off.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\xml_screen_settings.xml.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\xml\\screen_settings.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_star_on.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-hdpi\\icon_star_on.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_menu_help.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_help.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_launcher_freerdp.png.flat",
+        "source": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\src\\main\\res\\drawable-mdpi\\icon_launcher_freerdp.png"
+    },
+    {
+        "merged": "F:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5103406bca4a873cc6797495a0cbafed\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

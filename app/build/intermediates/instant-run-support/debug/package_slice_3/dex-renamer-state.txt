@@ -1,0 +1,4 @@
+#Mon Nov 13 17:17:43 CST 2017
+base.0=F\:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+renamed.0=classes.dex
+file.0=F\:\\LuoPan\\TempCode\\DemoFreeRDP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3\\classes.dex
